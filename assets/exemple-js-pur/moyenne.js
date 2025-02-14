@@ -29,6 +29,7 @@ if(moyenne>=15 & moyenne<=20){
 
 console.log("--------------------");
 //...........................................................
+
  function calculMoyenne(note,prenom){
 
     let total=0;
