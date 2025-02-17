@@ -1,3 +1,15 @@
 body{
-    background-color: brown;
+    background-color: #b9b9b9;
 }
+
+input{
+    border: 1px solid black;
+}
+.error{
+    color: red;
+    min-height: 20px;
+}
+.succes{
+   border: 2px solid green;
+}
+
